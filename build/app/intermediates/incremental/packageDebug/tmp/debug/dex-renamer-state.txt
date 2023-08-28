@@ -1,0 +1,4 @@
+#Tue Aug 29 00:48:05 IST 2023
+base.0=D\:\\D-PC\\Downloads\\Expanse-Tracker-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
